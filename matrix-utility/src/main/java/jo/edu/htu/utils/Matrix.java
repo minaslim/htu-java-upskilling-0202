@@ -9,7 +9,7 @@ public class Matrix {
     }
 
     public int cols() {
-        return -1;
+        return 1;
     }
 
     public int value(int row, int col) {
