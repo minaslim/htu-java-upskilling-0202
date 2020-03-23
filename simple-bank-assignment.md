@@ -24,6 +24,3 @@ This is a simple bank program:
 
 ---
 
-### Guidance 
-Try to utilize what you learned as much as possible and to cover all exceptional cases in your test classes according to the logic you understand. 
-Keep the code as clean and clear as possible, this task shouldn't take much time but have a clean and executable results. 
